@@ -1,8 +1,8 @@
 {
-  "name": "phymongshe_shop",
+  "name": "phymongshe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://desipossa.github.io/phymongshe_shop",
+  "homepage": "https://taeseokyoung.github.io/phymongshe",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
